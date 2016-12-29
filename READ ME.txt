@@ -1,0 +1,16 @@
+The code was run on CADE Machine 1-7
+To run the code follow the given instructions:
+3.1 - Program 31.py
+       Run 31.sh on cmd
+3.2 - Program 32l1.py
+	   Run 32l1.sh on cmd for learning rate 1
+3.2 - Program 32l01.py
+	   Run 32l01.sh on cmd for learning rate 0.1
+3.3 - Program 33.py
+	   Run 33.sh and input 0 or 1 value for margin as required
+3.4 - Program 34ns.py
+       Run 34ns.sh and input 0 or 1 value for margin as required  
+3.4 - Program 34n.py
+	   Run 34n.sh and input 0 or 1 value for margin as required
+
+

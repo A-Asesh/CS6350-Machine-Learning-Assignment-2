@@ -1,0 +1,1 @@
+python 34ns.py a5a.train a5a.test

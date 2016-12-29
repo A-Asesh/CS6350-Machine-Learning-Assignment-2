@@ -1,0 +1,1 @@
+python 33.py a5a.train a5a.test
